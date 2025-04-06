@@ -1,0 +1,1 @@
+// Firebase integration and app logic
